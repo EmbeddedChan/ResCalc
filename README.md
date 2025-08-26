@@ -10,4 +10,4 @@ https://youtube.com/shorts/535lEd7Y3x4?si=hpZKqiEs-PUvKJFE
 <p align="center">
   <img src="images/ResCalc-p2.jpg" width="300"/><br/>
   <b>VoltCalcR1</b><br/><br/>
-  <img src="images/VoltCalcR.drawio.png" width="300"/><br/>
+  <img src="images/SchVoltCalcR.jpg" width="300"/><br/>
